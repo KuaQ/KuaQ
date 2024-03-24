@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,8 +42,8 @@ Sunday                   116 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Kotlin                   19 mins             █████████████░░░░░░░░░░░░   51.72 % 
-XML                      17 mins             ███████████░░░░░░░░░░░░░░   45.40 % 
+Kotlin                   19 mins             █████████████░░░░░░░░░░░░   51.71 % 
+XML                      17 mins             ███████████░░░░░░░░░░░░░░   45.41 % 
 Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
@@ -79,5 +79,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KuaQ/KuaQ/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2024 18:33:12 UTC
+ Last Updated on 24/03/2024 18:33:45 UTC
 <!--END_SECTION:waka-->
