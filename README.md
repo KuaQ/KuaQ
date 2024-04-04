@@ -40,18 +40,16 @@ Sunday                   116 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Kotlin                   16 mins             ██████████████░░░░░░░░░░░   55.37 % 
-XML                      13 mins             ███████████░░░░░░░░░░░░░░   44.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SchornikoWloclawek 3.0   30 mins             █████████████████████████   100.00 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +69,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KuaQ/KuaQ/main/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2024 18:33:41 UTC
+ Last Updated on 04/04/2024 18:33:48 UTC
 <!--END_SECTION:waka-->
