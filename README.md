@@ -40,16 +40,17 @@ Sunday                   116 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     5 mins              ██████████████████░░░░░░░   70.05 % 
+JavaScript               2 mins              ███████░░░░░░░░░░░░░░░░░░   29.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+do kodowania             8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -69,5 +70,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KuaQ/KuaQ/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2024 18:36:23 UTC
+ Last Updated on 09/04/2024 18:32:48 UTC
 <!--END_SECTION:waka-->
