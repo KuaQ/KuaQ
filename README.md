@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 90 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -47,12 +49,12 @@ Bash                     0 secs              ░░░░░░░░░░░�
 
 🔥 Editors: 
 Xcode                    4 hrs 13 mins       ████████████████████░░░░░   78.76 % 
-VS Code                  1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+VS Code                  1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 Postman                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🐱‍💻 Projects: 
 Bookshelf-Prototyp       4 hrs 13 mins       ████████████████████░░░░░   78.77 % 
-bookshelf_api_app_ios_v2 1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+bookshelf_api_app_ios_v2 1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 Schronisko               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
@@ -76,5 +78,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KuaQ/KuaQ/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2024 18:41:03 UTC
+ Last Updated on 02/07/2024 18:41:14 UTC
 <!--END_SECTION:waka-->
