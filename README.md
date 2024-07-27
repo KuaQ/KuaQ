@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -40,16 +40,18 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Swift                    12 mins             █████████████████████████   100.00 % 
+Swift                    1 hr 40 mins        ████████████████████████░   96.05 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-Xcode                    12 mins             █████████████████████████   100.00 % 
+Xcode                    1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-UIDesigner               12 mins             █████████████████████████   100.00 % 
+Hisotry Activity Meter   1 hr 7 mins         ████████████████░░░░░░░░░   64.70 % 
+UIDesigner               36 mins             █████████░░░░░░░░░░░░░░░░   35.30 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -69,5 +71,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KuaQ/KuaQ/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2024 18:40:14 UTC
+ Last Updated on 27/07/2024 18:40:14 UTC
 <!--END_SECTION:waka-->
