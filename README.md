@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 90 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -40,17 +42,17 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Swift                    1 hr 30 mins        █████████████████████████   100.00 % 
+Swift                    1 hr 32 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Xcode                    1 hr 30 mins        █████████████████████████   100.00 % 
+Xcode                    1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Designer                 1 hr 27 mins        ████████████████████████░   96.99 % 
-Basic Step Meter         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Designer                 1 hr 30 mins        ████████████████████████░   97.09 % 
+Basic Step Meter         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Operating System: 
-Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -70,5 +72,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KuaQ/KuaQ/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2024 18:42:42 UTC
+ Last Updated on 22/08/2024 18:42:33 UTC
 <!--END_SECTION:waka-->
