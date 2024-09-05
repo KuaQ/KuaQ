@@ -7,8 +7,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -71,5 +69,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KuaQ/KuaQ/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2024 18:42:43 UTC
+ Last Updated on 05/09/2024 18:43:06 UTC
 <!--END_SECTION:waka-->
